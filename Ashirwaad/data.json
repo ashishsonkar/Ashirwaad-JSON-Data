@@ -1,0 +1,174 @@
+[
+	[
+		{
+			"icon":"<i class='color fa-solid fa-mobile'></i>",
+			"content":"0771-2242056",
+			"sm":"<i class='fa-brands fa-facebook-f'></i>",
+			"sm_link":"https://www.facebook.com"
+		},
+		{
+			"icon":"<i class='color fa-solid fa-mobile'></i>",
+			"content":"9907782353",
+			"sm":"<i class='fa-brands fa-square-twitter'></i>",
+			"sm_link":"https://www.twitter.com"
+		},
+		{
+			"icon":"<i class='color fa-solid fa-location-pin'></i>",
+			"content":"Near Sheetla Mandir, Dangania, Raipur",
+			"sm":"<i class='fa-brands fa-square-instagram'></i>",
+			"sm_link":"https://www.instagram.com"
+		},
+		{
+			"sm":"<i class='fa-brands fa-youtube'></i>",
+			"sm_link":"https://www.youtube.com"
+		}
+	],
+	{
+		"logo":"image/logo.png",
+		"nav":[
+				{
+					"tab":"HOME",
+					"tab_link":"index.html"
+				},
+				{
+					"tab":"ABOUT",
+					"tab_link":"ABOUT.html"
+				},
+				{
+					"tab":"DEPARTMENTS",
+					"tab_link":"DEPARTMENTS.html"
+				},
+				{
+					"tab":"MEDIA & GALLERY",
+					"tab_link":"MEDIA & GALLERY.html"
+				},
+				{
+					"tab":"CONTACT US",
+					"tab_link":"CONTACT US.html"
+				}
+			]
+	},
+	{
+		"col1":{
+			"heading":"Welcome to Aashirwad Hospital Raipur",
+			"para":"Aashirwad Test Tube Baby Centre provides world class Infertility treatment in affordable cost with excellent services & facilities. Contact us today for your Infertility treatment.",
+			"button":"Book An Appointment"
+		},
+		"col2":"image/img1.png"
+	},
+	{
+		"colIcon":["<i class='fa-solid fa-hospital'></i>","<i class='fa-solid fa-user-doctor'></i>","<i class='fa-solid fa-vials'></i>","<i class='fa-solid fa-truck-medical'></i>"],
+		"colHeading":["Modern Hospital","Expert Doctors","Modern Lab","Emergency"],
+		"colPara":["Aashirwad ICSI Test Tube Baby Centre is India’s leading fertility center","Aashirwad ICSI Test Tube Baby Centre has well Experts who Care About Your Health","Aashirwad ICSI Test Tube Baby Centre provides Modern Lab Facilities","Aashirwad ICSI Test Tube Baby Centre has Provides 24*7 Hours Emergency Service"]
+	},
+	{
+		"col1":{
+			"col1Heading1":"Aashirwad Hospital & ICSI Test Tube Baby Centre",
+			"col1Heading2":"Where your parenthood dream comes true",
+			"col1Para":"Aashirwad ICSI Test Tube Baby Centre is India’s leading fertility center and has a vision to be the best in the field of infertility treatments. Our core value is patient satisfaction and safety. We provides high-quality fertility treatments in a Affordable cost with highest success rates in India. State-of-the-art technology, services and facilities are best & world class.",
+			"col1UL1":["Intrauterine insemination (IUI)","Intra-cytoplasmic sperm injection (ICSI)","Egg Donation","Embryo Transfer","Blastocyst Culture","Endometriosis & PCOS Treatments","Laparoscopy Surgery"],
+			"col1UL2":["In Vitro Fertilization (IVF)","Surrogacy","Embryo Adoption","Sperm Banking","Assisted Laser Hatching","Neuro & Spin Surgery","Hysteroscopic Surgery"]
+		},
+		"col2":"image/img2.jpg"
+	},
+	{
+		"heading":"Best Treatment In Our Hospital",
+		"para":"Aashirwad ICSI Test Tube Baby Centre is India’s leading fertility center and has a vision to be the best in the field of infertility treatments."
+	},
+	{
+		"cardImg":["image/cardimg1.jpg","image/cardimg2.jpg","image/cardimg3.jpg","image/cardimg4.jpg","image/cardimg5.jpg","image/cardimg6.jpg"],
+		"cardHeading":["IUI","IVF","ICSI","Surrogacy","EMBRYO DONATION","EGG DONATION"],
+		"cardPara":["The IUI procedure can be an effective treatment for some causes of infertility in women under age 41.","IVF is a form of assisted reproductive technology. Special medical techniques are used to help a woman become pregnant.","Sperm to be injected directly into an egg, instead of fertilisation taking place where many sperm are placed near an egg.","Surrogacy is a treatment which involves a woman who gets ready to become a carrier for intended parents or an individual!","Embryo donation is one in which the donation is made to someone special, who knows and is known by the donors.","Egg donation could be a form of fertility procedure during which a donor Assistant in Nursingonymously offers her eggs ..."],
+		"cardLink":"See Details"
+	},
+	{
+		"col1":{
+			"heading":"CHOOSE THE BEST FOR YOUR HEALTH",
+			"para1":"IUI, IVF, ICSI & Surrogacy Treatments, High pregnancy rate, Excellent rating by patients, Modern Services & facilities, Highly experienced staff, A long record of Success, Egg donation & Embryo donation",
+			"para2":"Aashirwad Test Tube Baby Centre provides world class Infertility treatment in affordable cost with excellent services & facilities. Contact us today for your Infertility treatment."
+		},
+		"col2":"image/img3.jpg"
+	},
+	{
+		"heading":"Meet Team Aashirwad",
+		"para":"OUR TEAM IS BUILT WITH EXPERIENCE, EXPERTISE AND EFFICIENCY",
+		"cards":[
+			{
+				"cardImg":"image/card2img1.jpg",
+				"cardHeading":"Dr. S. N. Madhariya",
+				"cardText":["MS (General Surgery)","Mch, FMNS (Neurosurgery)","Fellowship Endoscopic Neurosurgery (USA)","Senior Brain & Spine Surgeon - RamKrishna Care Hospital, Raipur"],
+				"cardLink":"Make an Appointment"
+			},
+			{
+				"cardImg":"image/card2img2.jpg",
+				"cardHeading":"Dr. Nalini Madhariya",
+				"cardText":["MD, DNB (Gold Medalist)","ICSI Test Tube Baby Specialist","Obstetrics & Gynecologists","Laparoscopic Surgeon"],
+				"cardLink":"Make an Appointment"
+			},
+			{
+				"cardImg":"image/card2img3.jpg",
+				"cardHeading":"Dr A K Sonkar",
+				"cardText":["MD (Anaesthesiology)","Specialisation in Anaesthesia","Critical care"],
+				"cardLink":"Make an Appointment"
+			},
+			{
+				"cardImg":"image/card2img4.jpg",
+				"cardHeading":"Dr. DEEPIKA BELE",
+				"cardText":["MBBS, MD (AIIMS Delhi)","Special areas of interest Infertility, IVF, High risk pregnancy, Urogynaecology, Peri&postmenopausal disorders, Prevention gynaeoncology.","DNB, Dip. Urogynaecology (UKSH Germany)"],
+				"cardLink":"Make an Appointment"
+			},
+			{
+				"cardImg":"image/card2img5.jpg",
+				"cardHeading":"DR. PRIYANKA KHANDEY",
+				"cardText":["MBBS, MS, DNB, FNB-RM, FMAS","FNB -Reproductive Medicine (MAMC New Delhi)Ex- Registrar - IVF & Reproductive Biology Center- MAMC, N. Delhi","MBBS (GMC Jagdalpur) (Gold medalist)"],
+				"cardLink":"Make an Appointment"
+			},
+			{
+				"cardImg":"image/card2img6.jpg",
+				"cardHeading":"Arijeet Mukherjee",
+				"cardText":["Phd, MPhil, Msc in microbiology","Clinical Embryologist"],
+				"cardLink":"Make an Appointment"
+			}
+		]
+	},
+	{
+		"heading":"We Provide the highest level of satisfaction care & services to our patients.",
+		"link1":"<i class='fa-solid fa-phone'></i> 0771-2242056",
+		"link2":"Make an Appointment",
+		"img":"image/img4.png"
+	},
+	[
+		{
+			"colHeading":"image/footerLogo.png",
+			"colPara":"Aashirwad ICSI Test Tube Baby Centre is India’s leading fertility center and has a vision to be the best in the field of infertility treatments. Our core value is patient satisfaction and safety.",
+			"colUL":["<i class='fa-solid fa-mobile'></i> 0771-2242056","<i class='fa-solid fa-mobile'></i> 9907782353","<i class='fa-solid fa-location-pin'></i> Near Sheetla Mandir, Dangania, Raipur"]
+		},
+		{
+			"colHeading":"Departments",
+			"colUL":["Neuro surgery","Hysteroscopy","Laparoscopy surgery","Critical Pregnancy care","IUI","IVF","ICSI","Surrogacy","Embryo Donation","Egg Donation","Blastocyst Culture","Laser power-assisted Hatching"]
+		},
+		{
+			"colHeading":"Quick Links",
+			"colUL":["Home","About","Departments","Media & Gallery","Contact Us"]
+		},
+		{
+			"colHeading":"Opening Hours",
+			"th":["Day","Time"],
+			"tr1":{
+				"td":["Mon - Sat","Morning 10 - 2"]
+			},
+			"tr2":{
+				"td":["Mon - Sat","Evening 5 - 7"]
+			},
+			"tr3":{
+				"td":["Sunday","Closed"]
+			},
+			"tr4":{
+				"td":["24 X 7","Emergency"]
+			}
+		}
+	],
+	{
+		"copyright":"Copyright ©2022 Aashirwad Hospital . All rights reserved."
+	}
+]
